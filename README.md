@@ -52,5 +52,6 @@ prediction = model.predict(new_passenger)
 
 print("Survived" if prediction[0] == 1 else "Did Not Survive")
 ```
-`Developed by [Tiago Looze](https://seu-link-do-linkedin-ou-portfolio](https://www.linkedin.com/in/tiago-looze-b1a0001b7/)`
+## 👨‍💻 Author
+Developed by **Tiago Looze** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-looze-b1a0001b7/)
 
